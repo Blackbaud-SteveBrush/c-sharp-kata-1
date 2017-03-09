@@ -1,4 +1,4 @@
-# c-sharp-kata-1
+# C# Kata 1: Creating a basic console app
 
 ##Install Dependencies
 
